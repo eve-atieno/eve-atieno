@@ -8,8 +8,8 @@
 🌐 **Socials:**
 [![Discord](https://img.shields.io/badge/Discord-YourUsername-7289DA?logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
 [![Instagram](https://img.shields.io/badge/Instagram-YourUsername-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/yourinstagram/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname/)
-[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-YourName-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/everline-adhiambo-a52ab0235/))
+[![Twitter]([https://img.shields.io/badge/Twitter-YourHandle-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle/](https://twitter.com/Atieno_Ever))
 
 
 💻 **Tech Stack:**
