@@ -6,7 +6,11 @@
 🌱 **Currently Specializing:** In Front End Development
 
 🌐 **Socials:**
-[Discord](#) | [Instagram](#) | [LinkedIn](https://www.linkedin.com/in/everline-adhiambo-a52ab0235/) | [Twitter](#)
+[![Discord](https://img.shields.io/badge/Discord-YourUsername-7289DA?logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
+[![Instagram](https://img.shields.io/badge/Instagram-YourUsername-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/yourinstagram/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname/)
+[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle/)
+
 
 💻 **Tech Stack:**
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
